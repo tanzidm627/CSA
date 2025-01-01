@@ -1,4 +1,4 @@
-import requests,telebot,random
+import telebot,random
 from telebot import types
 from bin import bin,bincc
 from sk import check_sk
